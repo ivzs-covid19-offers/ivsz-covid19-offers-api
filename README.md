@@ -1,0 +1,1 @@
+# ivsz-covid19-offers-api
